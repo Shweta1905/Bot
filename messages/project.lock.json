@@ -14,10 +14,47 @@
       "Chronic.Signed/0.3.2": {
         "type": "package",
         "compile": {
-          "lib/net40/Chronic.dll": {}
+          "lib/net40/Chronic.dll": { }
         },
         "runtime": {
-          "lib/net40/Chronic.dll": {}
+          "lib/net40/Chronic.dll": { }
+        }
+      },
+      "Microsoft.SharePointOnline.CSOM/16.1.5326.1200": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.Office.Client.Policy.dll": {},
+          "lib/net45/Microsoft.Office.Client.TranslationServices.dll": {},
+          "lib/net45/Microsoft.Office.SharePoint.Tools.dll": {},
+          "lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll": {},
+          "lib/net45/Microsoft.ProjectServer.Client.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Publishing.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.Windows.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Office.Client.Policy.dll": {},
+          "lib/net45/Microsoft.Office.Client.TranslationServices.dll": {},
+          "lib/net45/Microsoft.Office.SharePoint.Tools.dll": {},
+          "lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll": {},
+          "lib/net45/Microsoft.ProjectServer.Client.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Publishing.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.Windows.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.3": {
